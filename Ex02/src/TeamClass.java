@@ -8,6 +8,7 @@ public class TeamClass {
 		System.out.println("집중하세요");
 		System.out.println("아메리카노 절반 먹었음");
 		System.out.println("정수리");
+		System.out.println("공차는 블랙밀크티");
 	}
 
 }
