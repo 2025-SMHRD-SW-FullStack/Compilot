@@ -6,6 +6,7 @@ public class TeamClass {
 		System.out.println("대접이냐 뚝배기냐");
 		System.out.println(" 비빔국수 3 통일");
 		System.out.println("집중하세요");
+		System.out.println("아메리카노 절반 먹었음");
 	}
 
 }
