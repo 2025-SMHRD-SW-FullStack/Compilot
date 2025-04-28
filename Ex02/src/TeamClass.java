@@ -9,6 +9,21 @@ public class TeamClass {
 		System.out.println("아메리카노 절반 먹었음");
 		System.out.println("정수리");
 		System.out.println("공차는 블랙밀크티");
+		
+//		
+//		<<<<<<<<<<< HEAD
+//		개발자 본인이 작성한 코드
+//		
+//		=======
+//		github에서 작성한 코드
+//		>>>>>>>>> branch master
+//		
+		
+		
+		
 	}
+	
+	
+	
 
 }
