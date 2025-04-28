@@ -8,8 +8,8 @@ public class TeamClass {
 		System.out.println("집중하세요");
 		System.out.println("아메리카노 절반 먹었음");
 		System.out.println("정수리");
-		System.out.println("공차는 2시부터 이벤트 시작인데 그것도 모르고 가서 괜히 돈만 쓰고 온 윤아연 개추");
-		System.out.println("나만의 작업 공간 : branch");
+		System.out.println("공차는 블랙밀크티");
+		System.out.println("나만의 작업공간 branch");
 	}
 
 }
